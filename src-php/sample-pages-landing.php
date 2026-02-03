@@ -14,10 +14,10 @@
     <?php require_once '2_nav.php'; ?>
 
     <main id="main-content">
-        <section class="usa-hero">
+        <section class="usa-hero" style="background-image: url('images/webp/bg-about-city.webp');" aria-label="Introduction">
             <div class="grid-container">
-                <div class="usa-hero__callout">
-                    <h1 class="usa-hero__heading">Welcome to RFPMart</h1>
+                <div class="usa-hero__callout maxw-mobile-lg">
+                    <h1 class="usa-hero__heading text-white">Welcome to RFPMart</h1>
                     <p>Simplifying city services and public engagement in one place.</p>
                     <a class="usa-button usa-button--big" href="#">Get Started</a>
                 </div>
